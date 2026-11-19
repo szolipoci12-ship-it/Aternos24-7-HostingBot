@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlockFastSMP.aternos.me:57204",
+    "ip": "BlockFastSMP.aternos.me",
     "port": 57204
 ,
     "version": "",
